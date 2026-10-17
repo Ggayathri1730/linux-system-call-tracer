@@ -1,0 +1,19 @@
+# Compiled executables
+linux-tracer
+core-tracer
+process_demo
+pipe_demo
+fifo_writer
+fifo_reader
+signal_demo
+file_analyzer
+memory_analyzer
+thread_demo
+sync_demo
+
+# Generated trace reports
+reports/trace.txt
+
+# Object files
+*.o
+tests/test_syscalls
